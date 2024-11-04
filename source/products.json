@@ -1,0 +1,27 @@
+[
+    {
+      "nom": "Smartphone Samsung Galaxy S21",
+      "prix": 799.99,
+      "stock": 20
+    },
+    {
+      "nom": "Ordinateur portable Dell XPS 13",
+      "prix": 1299.99,
+      "stock": 15
+    },
+    {
+      "nom": "Casque audio Sony WH-1000XM4",
+      "prix": 349.99,
+      "stock": 10
+    },
+    {
+      "nom": "Iphone 15 Pro",
+      "prix": 1599.99,
+      "stock": 10
+    },
+    {
+      "nom": "MacBook Pro 500G",
+      "prix": 1999.99,
+      "stock": 15
+    }
+  ]  

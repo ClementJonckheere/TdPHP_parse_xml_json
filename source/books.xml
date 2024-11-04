@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Harry Potter et la pierre philosophale</title>
+        <author>J.K. Rowling</author>
+        <year>1997</year>
+    </book>
+    <book>
+        <title>Le Seigneur des Anneaux</title>
+        <author>J.R.R. Tolkien</author>
+        <year>1954</year>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+    </book>
+<book><Titre>Dune</Titre><Auteur>Frank Herbert</Auteur><Année>Dune</Année></book><book><title>Dune</title><author>Frank Herbert</author><year>2023</year></book><book><title>Dune</title><author>Frank Herbert</author><year>2023</year></book></library>
